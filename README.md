@@ -94,7 +94,7 @@ utils/
 ## Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ai-chat-ui.git
+git clone https://github.com/asadullah009/gpt-2.0.git
 ```
 
 ## Navigate into the project
